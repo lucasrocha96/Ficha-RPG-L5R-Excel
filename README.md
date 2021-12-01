@@ -26,4 +26,11 @@ R: qualquer melhoria será bem-vinda, pode-se criar Forks para termos varios op�
 Nota: A ficha vem de um personagem já criado ; Ujina Kuabara é o personagem que preenche os dados da ficha, use o como modelo se preferir, ele não se incomoda =D
  
 Disclaimer : essa foi uma ficha pessoal sem inteção de distribuição inicial.
+
+![l5rbook](https://user-images.githubusercontent.com/93394405/144158326-717334e6-ce29-43aa-840b-a64519f8cb70.jpg)
+
+
+![rpg2rod](https://user-images.githubusercontent.com/93394405/144158167-a7666177-ff62-4895-a4be-f112dd6e2c7a.png)
+
+
 ![RPG](https://user-images.githubusercontent.com/93394405/144153883-8e3bdee3-c1a1-4d24-85ae-98e3f8e274f6.png)
